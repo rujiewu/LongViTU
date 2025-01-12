@@ -1,0 +1,7 @@
+QAs
+all_results
+data
+ego4d
+llamavid
+model_zoo
+work_dirs
