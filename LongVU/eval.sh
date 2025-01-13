@@ -1,0 +1,3 @@
+python -m torch.distributed.launch --nproc-per-node=8 eval/eval_egoschema.py --data_path ood/egoschema --version qwen --model_path output/cambrian_qwen2_7b_longvitu_train_101k/checkpoint-xxxx_consolidated
+
+python -m torch.distributed.launch --nproc-per-node=8 eval/eval_videomme.py --data_path ood/videomme --version qwen --model_path output/cambrian_qwen2_7b_longvitu_train_101k/checkpoint-xxxx_consolidated
