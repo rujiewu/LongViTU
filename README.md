@@ -149,7 +149,7 @@ bash inference.sh
 cd LongVU
 bash train_longvitu_qwen.sh
 python scripts/consolidate_checkpoint.py --model_path output/cambrian_qwen2_7b_longvitu_train_101k/checkpoint-xxxx
-bash eval_egoschema&videomme.sh
+bash eval.sh
 ```
 
 ## Acknowledgement
