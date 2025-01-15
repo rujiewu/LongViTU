@@ -112,12 +112,21 @@ LongViTU
 │       ├── videos
 │       │   ├── 0000_ed90c2e8-c608-423f-a565-7b4cfffbe438.mp4
 │       │   ├── 0001_80d2d992-0765-4fd9-b75b-7334cfefbd6f.mp4
-│       │   ├── ....
+│       │   ├── ... ...
 │       │   └── 1832_cdfd99eb-88c6-4bc7-8f66-e0318216feab.mp4
+│       ├── segmented_videos
+│       │   ├── 0000_ed90c2e8-c608-423f-a565-7b4cfffbe438
+│       │   │   ├── 000000.mp4
+│       │   │   └── ... ...
+│       │   ├── 0001_80d2d992-0765-4fd9-b75b-7334cfefbd6f
+│       │   ├── ... ...
+│       │   └── 1832_cdfd99eb-88c6-4bc7-8f66-e0318216feab
+│       │       ├── ... ...
+│       │       └── 121143.mp4
 │       ├── longvitu_train_101k.json
 │       ├── longvitu_valid_14k.json
 │       └── longvitu_test_6k.json
-├── ....
+├── ... ...
 └── train_longvitu_qwen.sh
 ```
 
