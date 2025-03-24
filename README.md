@@ -152,6 +152,13 @@ python scripts/consolidate_checkpoint.py --model_path output/cambrian_qwen2_7b_l
 bash eval.sh
 ```
 
+## LLaVA-Video
+```bash
+cd LLaVA-Video
+bash train.sh
+bash eval.sh
+```
+
 ## Acknowledgement
 Thanks for the codebase of [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA), [LLaMA-VID](https://github.com/dvlab-research/LLaMA-VID) and [LongVU](https://github.com/Vision-CAIR/LongVU).
 
