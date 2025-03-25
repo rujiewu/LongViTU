@@ -160,7 +160,7 @@ bash eval.sh
 ```
 
 ## Acknowledgement
-Thanks for the codebase of [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA), [LLaMA-VID](https://github.com/dvlab-research/LLaMA-VID) and [LongVU](https://github.com/Vision-CAIR/LongVU).
+Thanks for the codebase of [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA), [LLaMA-VID](https://github.com/dvlab-research/LLaMA-VID), [LongVU](https://github.com/Vision-CAIR/LongVU) and [LLaVA-Video](https://github.com/LLaVA-VL/LLaVA-NeXT).
 
 ## License
 - Code: [Apache](LICENSE)
